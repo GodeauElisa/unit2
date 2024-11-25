@@ -1,0 +1,63 @@
+p {
+ color: rgb(0, 0, 0);
+    }
+    img {
+        width: 1000px;
+        height: auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }  
+        p {
+            font-family: Helvetica, sans-serif;
+            font-size: 90px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            }
+            .SHOE1 {
+                            position: absolute;
+                        top: 600px;
+                        left: 660px;
+                        transform: translate(-50%, -50%);
+                            }
+            .SHOE2 {
+                   position: absolute;
+                    top: 550px;
+                    left: 200px;
+                     transform: translate(-50%, -50%);
+                                             }
+          .SHOE3 {
+                     position: absolute;
+                         top: 670px;
+                          left: 1560px;
+                         transform: translate(-50%, -50%);
+                                                 }
+            .SHOE4 {
+                        position: absolute;
+                           top: 650px;
+                          left: 1150px;
+                         transform: translate(-50%, -50%);
+      
+                                                   }
+             .REDSOCKS {
+                    position: absolute;
+                       top: 400px;
+                      left: 1350px;
+                     transform: translate(-50%, -50%);
+                     
+                                  
+                                                                               }
+                .LAINEPURE {
+                      position: absolute;
+                       top: 3000px;
+                  left: 300px;
+             transform: translate(-50%, -50%);}
+            .LAINE {
+                background-color: rgb(255, 0, 0);
+            }
+            .SAB body {
+                background-color: rgb(255, 0, 0);
+            }
